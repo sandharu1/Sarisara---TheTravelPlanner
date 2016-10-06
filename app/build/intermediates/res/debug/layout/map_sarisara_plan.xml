@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+ <com.google.android.maps.MapView
+        android:id="@+id/mapviewFullTrip"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.37"
+        android:apiKey="AIzaSyD_n_8Iv-4ob6y8pysA63raPzu0ucl00T8"
+        android:clickable="true" />
+
+ <Button
+     android:id="@+id/buttonShowTripPathDes"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:background="@drawable/gradient"
+     android:text="Show Path Details" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/buttonChagngeView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/gradient"
+            android:text="Change to satelite view" />
+
+    </LinearLayout>
+</LinearLayout>
+<!-- From: file:/E:/workspace/Sarisara/app/src/main/res/layout/map_sarisara_plan.xml -->

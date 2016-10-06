@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="44dp"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/sl1" />
+
+    <Button
+        android:id="@+id/EnterSarisara"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="34dp"
+        android:layout_marginBottom="24dp"
+        android:background="@drawable/gradient"
+        android:text="The Travel Planner Sri Lanka" />
+</LinearLayout><!-- From: file:/E:/workspace/Sarisara/app/src/main/res/layout/activity_main.xml -->

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+   
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/TextViewOnlyWatchPlaces"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="Please enter sarisara cities you want to see places."
+            android:textSize="10pt"
+            android:background="@android:color/holo_green_dark"
+            android:gravity="center_horizontal"
+            android:textColor="#ffffffff"
+            android:textStyle="bold">
+        </TextView>
+
+        <TextView
+            android:id="@+id/TextViewSpace2"
+            android:layout_width="match_parent"
+            android:layout_height="10pt"
+            
+            android:text=""
+            android:textSize="8pt" >
+        </TextView>
+
+        <TextView
+            android:id="@+id/textViewCity1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="City 1"
+            android:textStyle="bold"
+            android:textColor="@android:color/holo_blue_dark" />
+
+        <AutoCompleteTextView
+            android:id="@+id/autocompleteOC1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp" />
+
+        <TextView
+            android:id="@+id/textViewCity2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="City 2"
+            android:textStyle="bold"
+            android:textColor="@android:color/holo_blue_dark" />
+
+        <AutoCompleteTextView
+            android:id="@+id/autocompleteOC2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp" />
+
+        <TextView
+            android:id="@+id/textViewCity3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="City 3"
+            android:textStyle="bold"
+            android:textColor="@android:color/holo_blue_dark" />
+
+        <AutoCompleteTextView
+            android:id="@+id/autocompleteOC3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp" />
+
+        <TextView
+            android:id="@+id/textViewCity4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="City 4"
+            android:textStyle="bold"
+            android:textColor="@android:color/holo_blue_dark" />
+
+        <AutoCompleteTextView
+            android:id="@+id/autocompleteOC4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp" />
+
+        <TextView
+            android:id="@+id/textViewCity5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="City 5"
+            android:textStyle="bold"
+            android:textColor="@android:color/holo_blue_dark" />
+
+        <AutoCompleteTextView
+            android:id="@+id/autocompleteOC5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp" />
+
+        <TextView
+            android:id="@+id/TextViewSpace3"
+            android:layout_width="match_parent"
+            android:layout_height="10pt"
+            
+            android:text=""
+            android:textSize="8pt" >
+        </TextView>
+
+        <Button
+            android:id="@+id/ButtonSendTavelDetailsWithOC"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/gradient"
+            android:text="Send Travel Details" />
+    </LinearLayout>
+
+
+</ScrollView>

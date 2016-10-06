@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <TableLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="This will give you a step by step guide about Sarisara v1.0 "
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:typeface="sans"
+                    android:background="@android:color/holo_green_dark"
+                    android:gravity="center_horizontal"
+                    android:textColor="#ffffffff" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Following buttons in the Sarisara Selection Screen will do these tasks,"
+                    android:textSize="17sp"
+                    android:textColor="@android:color/holo_blue_dark">
+                </TextView>
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="" >
+                </TextView>
+
+                <ImageView
+                    android:id="@+id/imageView4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center"
+                    android:src="@drawable/h1" />
+            </TableRow>
+
+            <TableRow android:baselineAligned="true" >
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Plan a Travel will get you to plan a trip accroding to your liking."
+                    android:textColor="@android:color/holo_blue_dark" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Add Important Places will give you the chance to add a place in Sri Lanka. Which you know but not in Sarisara Database. Those submited data will be added after approval."
+                    android:textColor="@android:color/holo_blue_dark" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/textViewhp7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp8"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Following text fields in the Add Travel Details will do these tasks,"
+                    android:textSize="17sp"
+                    android:textColor="@android:color/holo_blue_dark">
+                </TextView>
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="" >
+                </TextView>
+
+                <ImageView
+                    android:id="@+id/imageView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center"
+                    android:src="@drawable/h2" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp9"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Give the Starting City Of your Trip,Destination City of your Trip and The estimated time for your Trip."
+                    android:textColor="@android:color/holo_blue_dark" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/textViewhp10"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp11"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Following tasks are done in the Add Travel Details_Interest,"
+                    android:textSize="17sp"
+                    android:textColor="@android:color/holo_blue_dark">
+                </TextView>
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="" >
+                </TextView>
+
+                <ImageView
+                    android:id="@+id/imageView12"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center"
+                    android:src="@drawable/h3" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp13"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="There are pre-defined list of intrests in a trip, Those are the things you need to watch in your trip. You can choose your own list by selecting the text boxes."
+                    android:textColor="@android:color/holo_blue_dark" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp14"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="You can request Trip Plan on this point by Clicking Send Travel Details Button. Or You can add more filters to your trip by clicking Go To Advanced Oprtions."
+                    android:textColor="@android:color/holo_blue_dark" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/textViewhp15"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp16"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Following tasks are done in the Add Travel Details_Select_Should_Visit,"
+                    android:textSize="17sp"
+                    android:textColor="@android:color/holo_blue_dark">
+                </TextView>
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="" >
+                </TextView>
+
+                <ImageView
+                    android:id="@+id/imageView17"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center"
+                    android:src="@drawable/h4" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp18"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="In this you can add cities which you need to add to your trip paln for sure."
+                    android:textColor="@android:color/holo_blue_dark" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp19"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="You can request Trip Plan on this point by Clicking Send Travel Details Button. Or You can add more filters to your trip by clicking Go To Advanced Oprtions."
+                    android:textColor="@android:color/holo_blue_dark" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/textViewhp20"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp21"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Following tasks are done in the Add Travel Details_Select_Should_Avoid,"
+                    android:textSize="17sp"
+                    android:textColor="@android:color/holo_blue_dark">
+                </TextView>
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="" >
+                </TextView>
+
+                <ImageView
+                    android:id="@+id/imageView22"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center"
+                    android:src="@drawable/h5" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp23"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="In this you can add cities which you need to be avoided from your trip paln for sure."
+                    android:textColor="@android:color/holo_blue_dark" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp24"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="You can request Trip Plan on this point by Clicking Send Travel Details Button. Or You can add more filters to your trip by clicking Go To Advanced Oprtions."
+                    android:textColor="@android:color/holo_blue_dark" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/textViewhp25"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp26"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Following tasks are done in the Add Travel Details_Select_Cities_Observe,"
+                    android:textSize="17sp"
+                    android:textColor="@android:color/holo_blue_dark">
+                </TextView>
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="" >
+                </TextView>
+
+                <ImageView
+                    android:id="@+id/imageView27"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center"
+                    android:src="@drawable/h6" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp28"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="In this you can add cities which you need to observe places on your trip paln. Other Cities will be ignored as just passing cities."
+                    android:textColor="@android:color/holo_blue_dark" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp29"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="You can request Trip Plan on this point by Clicking Send Travel Details Button."
+                    android:textColor="@android:color/holo_blue_dark" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/textViewhp30"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp31"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" Following tasks are done in the Show Trip Plan,"
+                    android:textSize="17sp"
+                    android:textColor="@android:color/holo_blue_dark">
+                </TextView>
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="" >
+                </TextView>
+
+                <ImageView
+                    android:id="@+id/imageView32"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center"
+                    android:src="@drawable/h7" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp33"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="In this you can view all the roads you have to follow on your trip by clicking shows path details"
+                    android:textColor="@android:color/holo_blue_dark" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp34"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Your Location Also Shown in the map when the location changed. GPS Location will be shown."
+                    android:textColor="@android:color/holo_blue_dark" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp35"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="When you reach a city it will be notified."
+                    android:textColor="@android:color/holo_blue_dark" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="" >
+                </TextView>
+
+                <ImageView
+                    android:id="@+id/imageView36"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center"
+                    android:src="@drawable/h8" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/textViewhp37"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="38"
+                    android:text="" >
+                </TextView>
+
+                <ImageView
+                    android:id="@+id/imageView6"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center"
+                    android:src="@drawable/h9" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/textViewhp39"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="" >
+                </TextView>
+
+                <ImageView
+                    android:id="@+id/imageView7"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center"
+                    android:src="@drawable/h10"
+                    android:contentDescription="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/textViewhp40"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="•" >
+                </TextView>
+
+                <TextView
+                    android:id="@+id/textViewhp41"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="If You Click on a important place mrker on the map. It will show following dialog."
+                    android:textColor="@android:color/holo_blue_dark" />
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:layout_column="1"
+                    android:text="" >
+                </TextView>
+
+            </TableRow>
+
+            <TableRow>
+
+                <TextView
+                    android:id="@+id/textViewhp42"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="" />
+            </TableRow>
+
+        </TableLayout>
+
+    </ScrollView>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Sarisara"
+        android:id="@+id/textView"
+        android:background="@android:color/holo_green_dark"
+        android:gravity="center_horizontal"
+        android:textColor="#ffffffff"
+        android:layout_marginTop="20dp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/sl" />
+
+    <Button
+        android:id="@+id/buttonPlanATravel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="@drawable/gradient"
+        android:layout_marginTop="10dp"
+        android:text="Plan A Travel"
+        style="@style/Base.TextAppearance.AppCompat.Button"
+        android:textColor="#ffffffff"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/buttonSubmitPlaceDetails"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/gradient"
+        android:text="Submit Important Place Details"
+        android:textStyle="bold"
+        android:textColor="#ffffffff" />
+
+    <Button
+        android:id="@+id/buttonShowCities"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/gradient"
+        android:text="View Cities"
+        android:textColor="#ffffffff"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/buttonHelp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/gradient"
+        android:text="Help"
+        android:textColor="#ffffffff"
+        android:textStyle="bold" />
+</LinearLayout>
+</ScrollView><!-- From: file:/E:/workspace/Sarisara/app/src/main/res/layout/main_selection.xml -->

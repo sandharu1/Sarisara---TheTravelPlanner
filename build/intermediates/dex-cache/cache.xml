@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29fd6d3794b71491c2789708cd8d03c71feb8954">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-c3979c84454e6ffd7e7d5feb9e82c0019208d36d.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a96b762bde4139de855735f175ec4d17dca55a6d">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-6b80b18dc3054af9772034932dabe3af4cd61c22.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="17f8750d5c0749e44dd7c54aa390d9c937803825">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-080ab4e951ba8869a53cf39896e19cf4cc25c6ab.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e3d791b42eaa90416cd0b2d2e608092794a3baa4">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-dfd2f350be2bdaa446a5fe200cd3e82bc74c8cc3.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ef5f051e7308febe289dc93c67c5f32785b4260a">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-b5ce3074426cdf6e009cab94ae90dbb09562306a.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0e8228b4bc69c6a2c8d7c18498a77e53417d2574">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-c44c93e6f2219400a614209021dbb24265e2cd3b.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4cd0b093824b3228fffc21ea369b98d0b1db6566">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-06cc212e3a71423d3e43262312cdec2ec031a7c6.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c976518693e89ad44fbfccfc654941eaec198d08">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-e6b72926764b278d650fd8549e02185294207923.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="73ccb92b70112f2e463e415ef8d7275de7da6516">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-3efbebca871d48f58f16e750a918710bdc679e9f.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-5213b3570bfe4640df6fcad7228428696acd7cf8.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="055783146ba9654a725442563be78cad303aad1f">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-ca0138e03ede17c7976bbbd13394615dd22648dc.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="41b3870cbe5fa546d8095b5b89d42cb69f3dd175">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-cf41c2b87d3619f7710a72351f0298c2ad35c2c7.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c0b099f9de16b265ecd6122fcb603e7d0d29f90">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-7e16c4816b11b42960b32230ed6a0c9b2ad149eb.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-e8cd5f85544ef463376185e371f10168fd903cf5.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9224bc4c54ba95147c7eabd874573763c07cb6be">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-98b911601a03a02b8aace94446ef20ccfa10a350.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fb04b12526b0073c7fb1ebb70c5842d82ee95596">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-7b21f7240aa327ae318f9e1a25e733081b8dbfd8.jar" />
+    </item>
+    <item
+        jar="C:\Users\sandharu1\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-1f527565b0926e958b993cfb38bbb103089d2604.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c93d99d454c975536bbe3b42283eee847f03ea3">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-0ac984eac8b1c807b0885fa2618c6500015a6e1a.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a08d65794b844d8e7540bf9a33859bf3b2482d7f">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-62ec76becf450bcbb650726eaa177c18b2085b12.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3033cc3a2c68dff3e5b646d6d084bdbdf7d00b25">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-df9a98ce4510d03b3b8bf751a845b0472aedcc87.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7ff613bf78ab057293892fdbd4169eda899c89b9">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-d6c1c66f049b89d20e3eb5197c62e4d1998265a7.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1c5a76debf0c2857ccad422c4a80ed785982f8df">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\classes-998c5a1a7eae275d95139f3b81902ee35a56ea2a.jar" />
+    </item>
+    <item
+        jar="E:\workspace\Sarisara\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="E:\workspace\Sarisara\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-d9d4f094c1cd82ec76c9f68242ac5e1bfd8ba40b.jar" />
+    </item>
+
+</items>
